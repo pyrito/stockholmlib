@@ -1,1 +1,1 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto);*{font-family:Roboto}h1{font-size:5em}p{font-size:1.2em;line-height:150%}img{max-width:100%;height:auto}.container{width:50%;margin:0 auto}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|PT+Serif|Roboto);h1{font-family:'PT Serif',serif;font-size:5em}p{font-family:'Open Sans',sans-serif;font-size:1.2em;line-height:150%}img{max-width:100%;height:auto}.container{width:50%;margin:0 auto}.footer{position:fixed;left:0;bottom:0;width:100%;background-color:red;color:#fff;text-align:center}
