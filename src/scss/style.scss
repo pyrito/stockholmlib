@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+* {
+	font-family: 'Roboto';
+}
+
+h1 {
+	font-size: 5em;
+}
+
+p {
+	font-size: 1.2em;
+	line-height: 150%;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+.container {
+	width: 50%;
+	margin: 0 auto;
+}
+
