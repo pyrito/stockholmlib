@@ -24,13 +24,14 @@ nav{
 	position: fixed;
 	left: 0;
 	top: 0;
-	width: 400px;
+	width: 350px;
 	height: 100vh;
 	text-align: center;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
+	border-right: 1px solid black;
 
 	ul{
 		padding: 0;
@@ -69,3 +70,7 @@ nav{
     text-align: center;
 }
 
+#navbar {
+	font-family: 'PT Serif', serif;
+	font-size: 60px;
+}
